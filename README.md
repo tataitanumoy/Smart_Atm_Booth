@@ -160,7 +160,7 @@ You will be able to see the graph for Temperature vs Time and Ultrasonic vs Time
 
 Temperature vs Time  graph, X axis is Time and Y axis is Temperature. In this graph you eill see if the air conditioner is working or not.
 
-Ultrasonic vs Time graph, X axis is Time and Y axis is Ultrasonic. This graph indicates total water usage with respect to year.
+Ultrasonic vs Time graph, X axis is Time and Y axis is Ultrasonic. This graph indicates the peaktime of the usage of th Atm booth.
 
 Also user will be able to see the calendar, clock and weather.
 
