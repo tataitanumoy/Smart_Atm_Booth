@@ -158,10 +158,9 @@ cf push
 # Dashboard(To view graphical representation)
 You will be able to see the graph for Temperature vs Time and Ultrasonic vs Time. 
 
-Prediction graph, X axis is Year and Y axis is Prediction. In this graph you will see the future year prediction.
+Temperature vs Time  graph, X axis is Time and Y axis is Temperature. In this graph you eill see if the air conditioner is working or not.
 
-Total Usage VS Year graph, X axis is Year and Y axis is Total Usage. This graph indicates total water usage with respect to year.
-
-Total Usage VS Postal Code graph, X axis is postal Code and Y axis is Total Usage. In this graph user will be able to see the total water usage in a postal code, where devices are installed.
+Ultrasonic vs Time graph, X axis is Time and Y axis is Ultrasonic. This graph indicates total water usage with respect to year.
 
 Also user will be able to see the calendar, clock and weather.
+
