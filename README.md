@@ -158,9 +158,9 @@ cf push
 # Dashboard(To view graphical representation)
 You will be able to see the graph for Temperature vs Time and Ultrasonic vs Time. 
 
-Temperature vs Time  graph, X axis is Time and Y axis is Temperature. In this graph you eill see if the air conditioner is working or not.
+Temperature vs Time  graph, X axis is Time and Y axis is Temperature. In this graph you will see if the air conditioner is working or not and you will also get to know the door of the booth is working or not.
 
-Ultrasonic vs Time graph, X axis is Time and Y axis is Ultrasonic. This graph indicates the peaktime of the usage of th Atm booth.
+Ultrasonic vs Time graph, X axis is Time and Y axis is Ultrasonic. This graph indicates the usage of the Atm booth, peak visiting hours.
 
 Also user will be able to see the calendar, clock and weather.
 
